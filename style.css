@@ -1,0 +1,67 @@
+.triptico {
+	overflow: hidden; /*evita que colapse el div, sino se hiciera, se saldría la lista*/
+	height: 600px;
+	width:900px;
+}
+.centro{
+	height: 520px;
+	width: 900px;
+	overflow: hidden; /*evita que colapse el div, sino se hiciera, se saldría la lista*/
+
+}
+
+.titulo{
+	background-color: orange;
+	border:1px solid black;
+	/*border-bottom: none;*/
+	overflow: hidden;
+	height: 40px;
+}
+
+.antes{
+	float: left;
+	border:1px solid black;
+	width: 299px;
+}
+
+
+.monopoly{
+	float: left;
+	border:1px solid black;
+	width: 298px;
+}
+
+.ahora{
+	float: letter-spacing: ;
+	border:1px solid black;
+	width: 299px;
+}
+
+h3{
+	text-align: center;
+}
+
+h4{
+	text-align: center;
+}
+
+.pie{
+	background-color: orange;
+	border-right: 1px solid black;
+	border-bottom:  1px solid black;
+
+	overflow: hidden;
+	width: 900px;
+	height: 40px;
+	position: absolute;
+	bottom: 0px;
+}
+.img1{
+	height: 60%;
+	width: 60%;
+}
+
+.p1{
+	border-bottom: none;
+
+}
